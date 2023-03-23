@@ -1,0 +1,17 @@
+D:\college\C# Practicals\Simple Calculator\bin\Debug\net6.0-windows\Simple Calculator.exe
+D:\college\C# Practicals\Simple Calculator\bin\Debug\net6.0-windows\Simple Calculator.deps.json
+D:\college\C# Practicals\Simple Calculator\bin\Debug\net6.0-windows\Simple Calculator.runtimeconfig.json
+D:\college\C# Practicals\Simple Calculator\bin\Debug\net6.0-windows\Simple Calculator.dll
+D:\college\C# Practicals\Simple Calculator\bin\Debug\net6.0-windows\Simple Calculator.pdb
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.csproj.AssemblyReference.cache
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple_Calculator.Form1.resources
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.csproj.GenerateResource.cache
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.AssemblyInfo.cs
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.dll
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\refint\Simple Calculator.dll
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.pdb
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\Simple Calculator.genruntimeconfig.cache
+D:\college\C# Practicals\Simple Calculator\obj\Debug\net6.0-windows\ref\Simple Calculator.dll

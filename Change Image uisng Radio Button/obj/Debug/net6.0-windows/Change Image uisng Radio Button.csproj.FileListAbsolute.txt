@@ -1,0 +1,17 @@
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.csproj.AssemblyReference.cache
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change_Image_uisng_Radio_Button.Form1.resources
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.csproj.GenerateResource.cache
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.AssemblyInfoInputs.cache
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.AssemblyInfo.cs
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.csproj.CoreCompileInputs.cache
+D:\college\C# Practicals\Change Image uisng Radio Button\bin\Debug\net6.0-windows\Change Image uisng Radio Button.exe
+D:\college\C# Practicals\Change Image uisng Radio Button\bin\Debug\net6.0-windows\Change Image uisng Radio Button.deps.json
+D:\college\C# Practicals\Change Image uisng Radio Button\bin\Debug\net6.0-windows\Change Image uisng Radio Button.runtimeconfig.json
+D:\college\C# Practicals\Change Image uisng Radio Button\bin\Debug\net6.0-windows\Change Image uisng Radio Button.dll
+D:\college\C# Practicals\Change Image uisng Radio Button\bin\Debug\net6.0-windows\Change Image uisng Radio Button.pdb
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.dll
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\refint\Change Image uisng Radio Button.dll
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.pdb
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\Change Image uisng Radio Button.genruntimeconfig.cache
+D:\college\C# Practicals\Change Image uisng Radio Button\obj\Debug\net6.0-windows\ref\Change Image uisng Radio Button.dll

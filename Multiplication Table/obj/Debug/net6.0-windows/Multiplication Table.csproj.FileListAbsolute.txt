@@ -1,0 +1,17 @@
+D:\college\C# Practicals\Multiplication Table\bin\Debug\net6.0-windows\Multiplication Table.exe
+D:\college\C# Practicals\Multiplication Table\bin\Debug\net6.0-windows\Multiplication Table.deps.json
+D:\college\C# Practicals\Multiplication Table\bin\Debug\net6.0-windows\Multiplication Table.runtimeconfig.json
+D:\college\C# Practicals\Multiplication Table\bin\Debug\net6.0-windows\Multiplication Table.dll
+D:\college\C# Practicals\Multiplication Table\bin\Debug\net6.0-windows\Multiplication Table.pdb
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.csproj.AssemblyReference.cache
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication_Table.Form1.resources
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.csproj.GenerateResource.cache
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.AssemblyInfoInputs.cache
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.AssemblyInfo.cs
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.dll
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\refint\Multiplication Table.dll
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.pdb
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\Multiplication Table.genruntimeconfig.cache
+D:\college\C# Practicals\Multiplication Table\obj\Debug\net6.0-windows\ref\Multiplication Table.dll

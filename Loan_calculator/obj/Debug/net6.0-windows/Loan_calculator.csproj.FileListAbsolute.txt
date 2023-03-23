@@ -1,0 +1,17 @@
+D:\college\C# Practicals\Loan_calculator\bin\Debug\net6.0-windows\Loan_calculator.exe
+D:\college\C# Practicals\Loan_calculator\bin\Debug\net6.0-windows\Loan_calculator.deps.json
+D:\college\C# Practicals\Loan_calculator\bin\Debug\net6.0-windows\Loan_calculator.runtimeconfig.json
+D:\college\C# Practicals\Loan_calculator\bin\Debug\net6.0-windows\Loan_calculator.dll
+D:\college\C# Practicals\Loan_calculator\bin\Debug\net6.0-windows\Loan_calculator.pdb
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.csproj.AssemblyReference.cache
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.Form1.resources
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.csproj.GenerateResource.cache
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.AssemblyInfoInputs.cache
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.AssemblyInfo.cs
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.csproj.CoreCompileInputs.cache
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.dll
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\refint\Loan_calculator.dll
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.pdb
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\Loan_calculator.genruntimeconfig.cache
+D:\college\C# Practicals\Loan_calculator\obj\Debug\net6.0-windows\ref\Loan_calculator.dll
