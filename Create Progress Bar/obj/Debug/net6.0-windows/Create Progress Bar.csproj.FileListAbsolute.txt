@@ -1,0 +1,18 @@
+D:\college\C# Practicals\Create Progress Bar\bin\Debug\net6.0-windows\Create Progress Bar.exe
+D:\college\C# Practicals\Create Progress Bar\bin\Debug\net6.0-windows\Create Progress Bar.deps.json
+D:\college\C# Practicals\Create Progress Bar\bin\Debug\net6.0-windows\Create Progress Bar.runtimeconfig.json
+D:\college\C# Practicals\Create Progress Bar\bin\Debug\net6.0-windows\Create Progress Bar.dll
+D:\college\C# Practicals\Create Progress Bar\bin\Debug\net6.0-windows\Create Progress Bar.pdb
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.csproj.AssemblyReference.cache
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create_Progress_Bar.Form1.resources
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create_Progress_Bar.Form2.resources
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.csproj.GenerateResource.cache
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.AssemblyInfoInputs.cache
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.AssemblyInfo.cs
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.csproj.CoreCompileInputs.cache
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.dll
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\refint\Create Progress Bar.dll
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.pdb
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\Create Progress Bar.genruntimeconfig.cache
+D:\college\C# Practicals\Create Progress Bar\obj\Debug\net6.0-windows\ref\Create Progress Bar.dll
