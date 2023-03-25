@@ -1,0 +1,17 @@
+D:\college\C# Practicals\ch2_pr4\bin\Debug\net6.0-windows\ch2_pr4.exe
+D:\college\C# Practicals\ch2_pr4\bin\Debug\net6.0-windows\ch2_pr4.deps.json
+D:\college\C# Practicals\ch2_pr4\bin\Debug\net6.0-windows\ch2_pr4.runtimeconfig.json
+D:\college\C# Practicals\ch2_pr4\bin\Debug\net6.0-windows\ch2_pr4.dll
+D:\college\C# Practicals\ch2_pr4\bin\Debug\net6.0-windows\ch2_pr4.pdb
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.csproj.AssemblyReference.cache
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.Form1.resources
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.csproj.GenerateResource.cache
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.GeneratedMSBuildEditorConfig.editorconfig
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.AssemblyInfoInputs.cache
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.AssemblyInfo.cs
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.csproj.CoreCompileInputs.cache
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.dll
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\refint\ch2_pr4.dll
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.pdb
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ch2_pr4.genruntimeconfig.cache
+D:\college\C# Practicals\ch2_pr4\obj\Debug\net6.0-windows\ref\ch2_pr4.dll
